@@ -10,8 +10,8 @@ A random forest is a meta estimator that fits a number of decision tree classifi
 
 ## Outcome
 For each entry in test set value 1 or 0 is given to predict if a passenger survived the sinking of the Titanic or not.
-PassengerId,Survived
-892,0
-893,1
-894,0
-Etc.
+### PassengerId,Survived
+### 892,0
+### 893,1
+### 894,0
+### Etc.
